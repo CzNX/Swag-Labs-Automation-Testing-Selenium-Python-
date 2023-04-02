@@ -13,5 +13,6 @@ driver = webdriver.Firefox(service=Service(
     executable_path=GeckoDriverManager().install()))
     
 most used selector : XPATH
+
 import requests---> for broken links / working links
 python sort and sorted for filtering lists
